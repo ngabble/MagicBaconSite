@@ -1,0 +1,15 @@
+﻿<asp:TextBox runat="server"
+    BackColor="White"
+    BorderColor="Black"
+    BorderStyle="Solid"
+    BorderWidth="1px"
+    Font-Names="Tahoma, Verdana, Arial"
+    Font-Size="12pt"
+/>
+<asp:Image runat="server"
+    SkinId="bluefalcon"
+    ImageUrl="images/magicbacon.png"
+    alt="magicbacon"
+    height="32px"
+    width="32px"
+ />

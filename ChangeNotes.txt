@@ -1,0 +1,8 @@
+Changes:
+- Added bunch of validation checks for all fields excluding phone number. That one's still tricky.
+- Fixed firstname2 button event that was causing registration problems, i.e. randomly registering even without hitting submit
+- Submit button fixed
+- Reset button functional
+- Registration page now shows success message when db accepts fields
+- Added try-catch for errors
+- Web.config now has validation key settings
